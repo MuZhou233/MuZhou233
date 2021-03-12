@@ -1,4 +1,4 @@
-## 🤔I'm not a front-end developer
+### 🤔I'm not a front-end developer, May be a Rust developer
 
 ![Mu's github stats](https://github-readme-stats.vercel.app/api?username=MuZhou233&hide=commits&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuZhou233&layout=compact&hide_border=true)
