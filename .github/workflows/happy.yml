@@ -1,0 +1,17 @@
+name: Live Happy
+
+on:
+  workflow_dispatch:
+    inputs:
+      happy:
+        description: Do You Live Happy?
+        type: boolean
+        required: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - if: ${{inputs.happy == false}}
+      run: return 1
+      
