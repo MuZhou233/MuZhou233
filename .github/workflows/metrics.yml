@@ -18,7 +18,7 @@ jobs:
           # Options
           user: MuZhou233
           template: classic
-          base: activity, community, repositories, metadata
+          base: repositories
           config_timezone: Asia/Shanghai
           plugin_followup: yes
           plugin_followup_archived: yes
