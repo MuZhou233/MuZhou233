@@ -5,4 +5,4 @@
 
 ![Metrics](https://github.com/muzhou233/muzhou233/blob/master/github-metrics.svg)
 
-🤔ex-OIer, ex-GDUTELCer, major in EE  
+🤔ex-OIer, ex-GDUTELCer, former intern at ByteDance, major in ECE  
