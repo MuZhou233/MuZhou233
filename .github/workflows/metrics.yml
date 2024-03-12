@@ -21,10 +21,10 @@ jobs:
           base: repositories
           config_timezone: Asia/Shanghai
           plugin_followup: yes
-          plugin_followup_archived: yes
-          plugin_followup_sections: repositories
+          plugin_followup_sections: user
           plugin_languages: yes
           plugin_languages_indepth: true
+          commits_authoring: MuZhou233, muzhou233, muzhou233@outlook.com, MuZhou233@outlook.com, MuZhou233@users.noreply.github.com
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
